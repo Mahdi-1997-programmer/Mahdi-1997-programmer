@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdi-1997-programmer
-- 👀 I’m interested in 
+- 👀 I’m interested in ML, Data science and Linux
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
