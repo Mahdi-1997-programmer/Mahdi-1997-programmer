@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mahdi-1997-programmer
-- 👀 I’m interested in ML, Data science and Linux
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data analysis, Data science and ML 
+- 🌱 I’m currently learning statistics and probability
+
 
 <!---
 Mahdi-1997-programmer/Mahdi-1997-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
