@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mahdi-1997-programmer
+- 👋 Hi everyone, I’m Mahdi
 - 👀 I’m interested in data analysis, Data science and ML 
-- 🌱 I’m currently learning statistics and probability
+- 🌱 I’m on my way to become a data scientist, and in this journey I will share some of my projects in here.
 
 
 <!---
